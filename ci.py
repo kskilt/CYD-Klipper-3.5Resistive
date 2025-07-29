@@ -2,6 +2,7 @@ import subprocess, os, shutil, json
 
 CYD_PORTS = [
     "esp32-3248S035C", 
+    "esp32-3248S035R",
     "esp32-2432S028R", 
     "esp32-2432S032C-SD", 
     "esp32-8048S043C-SD",
