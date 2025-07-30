@@ -1,13 +1,12 @@
 {
     "build": {
       "arduino": {
-        "ldscript": "esp32_out.ld",
-        "partitions": "default.csv"
+        "ldscript": "esp32_out.ld"
       },
       "core": "esp32",
       "extra_flags": [
         "-DUSER_SETUP_LOADED=1",
-        "-DST7796_DRIVER=1",
+        "-DILI9341_2_DRIVER=1",
         "-DTFT_BACKLIGHT_ON=HIGH",
         "-DTFT_BL=27",
         "-DTFT_MISO=12",
