@@ -57,6 +57,9 @@ All links below are affiliate links. Please also check yourself if there is a ch
 *ESP32-3248S035C (3.5" Capacitive)*
 - [microB version](https://s.click.aliexpress.com/e/_oCqygE9)
 
+*ESP32-3248S035R (3.5" Resistive)*
+- [USB-C version](https://www.aliexpress.com/item/1005004632953455.html)
+
 ### Screenshots
 (Quite literally shots of the screen. I'm sorry)
 
