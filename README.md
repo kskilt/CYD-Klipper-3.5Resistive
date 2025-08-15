@@ -1,3 +1,15 @@
+This is a fork of suchmememanyskill's CYD-Klipper project (scroll down for original README). This fork adds support for 3.5" Resistive Screen, which is a cheaper alternative to the Capacitive screen at the same size. 
+
+Here is an image of the 3.5" Resistive Smart-touch CYD I used
+![download](https://github.com/user-attachments/assets/ab223c9f-a2a5-420a-807d-d8e741bb0b0a)
+
+And here are a few Screenshots in action:
+![2de96297-0617-4468-ae94-cebb775eba83](https://github.com/user-attachments/assets/8c6ef653-38f3-42bc-827a-6c4ff1e08fc0)
+![741d7a81-f984-4361-8356-600cd4b0bfd3](https://github.com/user-attachments/assets/df86a423-94be-470d-a5ab-d68624567edd)
+![59aa0148-9f01-496f-bf39-d5a68c394b64](https://github.com/user-attachments/assets/86599ed2-e8e0-4e65-b651-c3df44b663a2)
+![84d6ebaf-0fb3-4137-b9c6-a58aea92673d](https://github.com/user-attachments/assets/bb6a4c36-009b-4512-8ec7-f9160d96d637)
+
+
 ![GitHub release (with filter)](https://img.shields.io/github/v/release/suchmememanyskill/CYD-Klipper)
 [![Donations](https://img.shields.io/badge/Support%20on-Ko--Fi-red)](https://ko-fi.com/suchmememanyskill)
 
